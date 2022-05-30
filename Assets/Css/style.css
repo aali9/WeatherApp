@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    font-family: "Times New Roman", Times, serif;
+  }
+  h1 {
+    font-size: 20px;
+  }
+  
+  
+  .hidden {
+      display: none; 
+    }
+  
+    .card{
+      margin: inherit;
+      display: inline-grid;
+      height: auto;
+      width: 16%;
+      background-color: #0018b6;
+      color: rgba(255, 252, 252, 0.785);
+      font-size: small;
+    }
+    .forecastContainer{
+      display: flex;
+      justify-content: space-between;
+    }
+    #saved-city{
+      display: grid;
+    }
+  
+    #current-condition{
+  border: solid 1px; 
+  height: 200px; 
+  padding: inherit;
+    }
+  
+    .cityButton{
+      margin: 1rem;
+    }
+    .normal{
+      background-color: rgb(0, 149, 255);
+    }
