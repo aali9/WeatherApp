@@ -13,6 +13,7 @@ Bootstrap  CSS
 Deployed to GitHub Pages
 
 Screenshot of App
-<script img="./Assets/Images/screenshot.png"
+![Weather Dashboard Webpage](./Assets/Images/screenshot.png)
 
-Links:
+Links: 
+https://github.com/aali9/WeatherApp
