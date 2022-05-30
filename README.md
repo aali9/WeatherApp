@@ -13,6 +13,6 @@ Bootstrap  CSS
 Deployed to GitHub Pages
 
 Screenshot of App
-<script img="./Assets/Images/screenshot.png">
+<script img="./Assets/Images/screenshot.png"
 
 Links:
